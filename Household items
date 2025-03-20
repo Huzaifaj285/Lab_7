@@ -3,3 +3,8 @@ Console.WriteLine("table");
 Console.WriteLine("refrigerator");
 Console.WriteLine("bed");
 Console.WriteLine("sofa");
+
+
+
+
+Console.WriteLine("fan");
